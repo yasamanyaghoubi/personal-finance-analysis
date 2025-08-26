@@ -1,0 +1,316 @@
+datetime,day of week,category,sub_category,amount,description
+2025-03-31,Monday,Food & Drink,Cafe / Coffee,546,Cafe With Viana At Pasha
+2025-03-31,Monday,Groceries,Supermarket,99,Grocery Supermarket
+2025-03-31,Monday,Income,Reimbursements,273,Viana'S Share Paid Back
+2025-03-31,Monday,Gifts/Donations,Family/Friends,5000,Mom Eidi
+2025-03-30,Sunday,Transport,Fuel / Gas,85,Gas
+2025-03-30,Sunday,Groceries,Supermarket,109,Grocery Supermarket
+2025-03-30,Sunday,Food & Drink,Cafe / Coffee,150,Grocery Dog Food
+2025-03-30,Sunday,Utilities & Bills,Internet / Mobile Data,53,Irancell Data
+2025-03-29,Saturday,Myself,Snacks,62,Sm
+2025-03-29,Saturday,Food & Drink,Cafe / Coffee,458,Pizza With Tara
+2025-03-28,Friday,Shopping,Clothes,1341,Pants From Bqb
+2025-04-01,Tuesday,Utilities & Bills,Vpn,60,Asal Share For Vpn
+2025-04-02,Wednesday,Groceries,Fruits & Veggies,265,Grocery Fruits
+2025-04-02,Wednesday,Groceries,Supermarket,211,Grocery Supermarket
+2025-04-02,Wednesday,Groceries,Fruits & Veggies,243,Grocery Fruits
+2025-04-02,Wednesday,Groceries,Supermarket,190,Grocery Supermarket
+2025-04-02,Wednesday,Shopping,Clothes,84,Post For Pants
+2025-04-03,Thursday,Utilities & Bills,Vpn,330,Vpn For Guys
+2025-04-03,Thursday,Health,Medicine,518,Drugs For Dad
+2025-04-03,Thursday,Groceries,Supermarket,89,Grocery Supermarket
+2025-04-03,Thursday,Reimbursement,Reimbursement,180,Poopak Share From Café Paidback
+2025-04-04,Friday,Food & Drink,Cafe / Coffee,140,Asal Share From Café
+2025-04-04,Friday,Food & Drink,Cafe / Coffee,735,Café With Guys
+2025-04-04,Friday,Food & Drink,Cafe / Coffee,454,Café With Viana Nightvan
+2025-04-05,Saturday,Utilities & Bills,Internet / Mobile Data,129,Irancell Home
+2025-04-06,Sunday,Utilities & Bills,Internet / Mobile Data,53,Irancell Data
+2025-04-06,Sunday,Income,Reimbursements,157,Viana'S Share Paid Back
+2025-04-07,Monday,Shopping,Books,482,Books
+2025-04-07,Monday,Income,Income,6400,Income Amo Mos
+2025-04-07,Monday,Food & Drink,Cafe / Coffee,497,Café Mora With Nazanin
+2025-04-07,Monday,Groceries,Supermarket,48,Grocery Supermarket
+2025-04-07,Monday,Shopping,Clothes,1180,Pants From Bqb
+2025-04-08,Tuesday,Other,Other,100,Uni
+2025-04-08,Tuesday,Transport,Ride-Hailing,475,Sarigasht To Tehran
+2025-04-08,Tuesday,Transport,Snapp,121,Snapp
+2025-04-08,Tuesday,Reimbursement,Reimbursement,213,Nazanin Share From Mora Paidback
+2025-04-09,Wednesday,Food & Drink,Cafe / Coffee,312,Café Carbon Breakfast
+2025-04-09,Wednesday,Other,Other,30,Museum Entry
+2025-04-09,Wednesday,Gifts/Donations,Family/Friends,544,Tara'S Birthday Gift
+2025-04-09,Wednesday,Food & Drink,Cafe / Coffee,480,Pizza With Tara
+2025-04-09,Wednesday,Food & Drink,Cafe / Coffee,100,Icecream With Tara
+2025-04-10,Thursday,Food & Drink,Cafe / Coffee,147,Lunch Cluna At Sharif
+2025-04-10,Thursday,Food & Drink,Cafe / Coffee,48,Coffee At Sharif
+2025-04-10,Thursday,Transport,Snapp,53,Snapp
+2025-04-12,Saturday,Myself,Nails,395,Gelish
+2025-04-12,Saturday,Transport,Snapp,37,Snapp
+2025-04-12,Saturday,Groceries,Fruits & Veggies,30,Grocery Fruits
+2025-04-13,Sunday,Myself,Snacks,47,Sm
+2025-04-13,Sunday,Myself,Essentials,50,Essentials Ipek Pad
+2025-04-13,Sunday,Utilities & Bills,Internet / Mobile Data,110,Irancell Bill
+2025-04-14,Monday,Food & Drink,Cafe / Coffee,115,Café Mora With Asal
+2025-04-14,Monday,Myself,Snacks,37,Sm
+2025-04-15,Tuesday,Income,Yaraneh,400,Income Yaraneh
+2025-04-15,Tuesday,Income,Income,4800,Income Amo Mor
+2025-04-15,Tuesday,Other,Other,140,Flower For Aziz Joon
+2025-04-15,Tuesday,Transport,Snapp,38,Snapp
+2025-04-15,Tuesday,Gifts/Donations,Family/Friends,586,Tara'S Birthday Gift
+2025-04-15,Tuesday,Food & Drink,Cafe / Coffee,154,Debt Mobina Bakeroom Share
+2025-04-18,Friday,Food & Drink,Cafe / Coffee,220,Food Coffice Pennini
+2025-04-18,Friday,Gifts/Donations,Family/Friends,499,Mom Birthday Gifts
+2025-04-18,Friday,Gifts/Donations,Family/Friends,819,Mom Birthday Gifts
+2025-04-18,Friday,Utilities & Bills,Gpt,120,Chat Gpt
+2025-04-18,Friday,Food & Drink,Cafe / Coffee,210,Café Nightvan Share To Viana
+2025-04-19,Saturday,Food & Drink,Cake,97,Cake
+2025-04-21,Monday,Groceries,Fruits & Veggies,90,Grocery Fruits
+2025-04-21,Monday,Groceries,Fruits & Veggies,70,Grocery Fruits
+2025-04-21,Monday,Groceries,Fruits & Veggies,80,Grocery Fruits
+2025-04-21,Monday,Transport,Snapp,49,Snapp
+2025-04-21,Monday,Shopping,Digikala,612,Digikala
+2025-04-22,Tuesday,Myself,Gym,1400,Gym
+2025-04-22,Tuesday,Other,Other,180,?
+2025-04-22,Tuesday,Other,Other,45,?
+2025-04-23,Wednesday,Food & Drink,Cake,288,Cake For Mom
+2025-04-23,Wednesday,Transport,Snapp,78,Snapp
+2025-04-23,Wednesday,Transport,Ride-Hailing,20,Tehran Freeway
+2025-04-24,Thursday,Utilities & Bills,Internet / Mobile Data,126,Irancell Home
+2025-04-25,Friday,Transport,Snapp,53,Snapp
+2025-04-25,Friday,Food & Drink,Cafe / Coffee,431,Café Coffice
+2025-04-25,Friday,Reimbursement,Reimbursement,216,Asal Share For Coffice Paidback
+2025-04-25,Friday,Food & Drink,Cafe / Coffee,253,Debt Navid Share For Jigarakie
+2025-04-26,Saturday,Gifts/Donations,Family/Friends,850,Mom Birthday Gifts Ea Messaj
+2025-04-26,Saturday,Groceries,Fruits & Veggies,120,Grocery Fruits
+2025-04-26,Saturday,Groceries,Fruits & Veggies,150,Grocery Fruits
+2025-04-27,Sunday,Income,Yaraneh,400,Income Yaraneh
+2025-04-28,Monday,Food & Drink,Cafe / Coffee,110,Café Samt
+2025-04-28,Monday,Food & Drink,Cafe / Coffee,509,Café Bakeroom With Viana
+2025-04-29,Tuesday,Groceries,Supermarket,46,Grocery Supermarket
+2025-04-29,Tuesday,Groceries,Supermarket,148,Grocery Supermarket
+2025-04-30,Wednesday,Food & Drink,Cafe / Coffee,45,Café Bookcity
+2025-04-30,Wednesday,Groceries,Supermarket,467,Grocery Supermarket
+2025-05-02,Friday,Income,Profit,58,Income Profit
+2025-05-03,Saturday,Transport,Fuel / Gas,43,Gas
+2025-05-03,Saturday,Myself,Snacks,60,Sm
+2025-05-04,Sunday,Food & Drink,Cafe / Coffee,245,Debt Faraz Gransa
+2025-05-04,Sunday,Myself,Snacks,48,Sm
+2025-05-04,Sunday,Food & Drink,Cafe / Coffee,120,Cafe Samt With Poopak
+2025-05-06,Tuesday,Food & Drink,Cafe / Coffee,60,Café Tea With Viana
+2025-05-06,Tuesday,Reimbursement,Reimbursement,94,Mobina Share Paidback
+2025-05-06,Tuesday,Food & Drink,Cake,189,Nazanin Cake
+2025-05-07,Wednesday,Reimbursement,Reimbursement,98,Nazanin Share Paidback
+2025-05-07,Wednesday,Other,Other,120,?
+2025-05-07,Wednesday,Other,Other,700,Mahmoudreza Telc
+2025-05-08,Thursday,Food & Drink,Cake,366,Mom Birthday Cake
+2025-05-09,Friday,Shopping,Clothes,373,Cloth
+2025-05-09,Friday,Myself,Snacks,140,Sm
+2025-05-09,Friday,Myself,Snacks,280,Sm
+2025-05-09,Friday,Myself,Snacks,155,Sm
+2025-05-10,Saturday,Reimbursement,Reimbursement,140,Asal Share Paidback
+2025-05-10,Saturday,Food & Drink,Cafe / Coffee,126,Debt To Poopak For Pizza
+2025-05-10,Saturday,Food & Drink,Cafe / Coffee,146,Debt To Navid For Café
+2025-05-11,Sunday,Income,Income,6400,Income Amo Mos
+2025-05-11,Sunday,Utilities & Bills,Internet / Mobile Data,53,Irancell Data
+2025-05-12,Monday,Income,Income,4700,Income Amo Mor
+2025-05-12,Monday,Groceries,Fruits & Veggies,70,Groecery Fruits
+2025-05-12,Monday,Groceries,Fruits & Veggies,32,Grocery Fruits
+2025-05-12,Monday,Groceries,Fruits & Veggies,35,Fruits
+2025-05-12,Monday,Groceries,Fruits & Veggies,124,Fruits
+2025-05-12,Monday,Transport,Snapp,43,Snapp
+2025-05-13,Tuesday,Other,Other,70,Buught Dish
+2025-05-13,Tuesday,Food & Drink,Cafe / Coffee,45,Café Bookcity
+2025-05-14,Wednesday,Gifts/Donations,Family/Friends,95,Tara'S Birthday Gift
+2025-05-14,Wednesday,Gifts/Donations,Family/Friends,30,Tara'S Birthday Gift
+2025-05-15,Thursday,Income,Yaraneh,400,Income Yaraneh
+2025-05-15,Thursday,Food & Drink,Cafe / Coffee,1180,Pizza With Tara
+2025-05-16,Friday,Reimbursement,Reimbursement,374,Asal Share Pizza Paidback
+2025-05-16,Friday,Food & Drink,Cafe / Coffee,579,Café Bakeroom With Tara
+2025-05-16,Friday,Utilities & Bills,Internet / Mobile Data,129,Irancell Home
+2025-05-18,Sunday,Food & Drink,Cafe / Coffee,380,Café Coffice
+2025-05-19,Monday,Transport,Snapp,33,Snapp
+2025-05-19,Monday,Groceries,Fruits & Veggies,80,Fruits
+2025-05-19,Monday,Groceries,Fruits & Veggies,88,Fruits
+2025-05-19,Monday,Groceries,Fruits & Veggies,90,Fruits
+2025-05-19,Monday,Groceries,Fruits & Veggies,42,Fruits
+2025-05-19,Monday,Groceries,Fruits & Veggies,103,Fruits
+2025-05-19,Monday,Transport,Snapp,37,Snapp
+2025-05-21,Wednesday,Other,Other,375,?
+2025-05-22,Thursday,Reimbursement,Reimbursement,1400,Viana Paidback Gym Debt
+2025-05-22,Thursday,Myself,Gym,1500,Viana Gym
+2025-05-22,Thursday,Other,Other,56,?
+2025-05-22,Thursday,Other,Other,45,?
+2025-05-23,Friday,Food & Drink,Cafe / Coffee,120,Café Oco
+2025-05-24,Saturday,Reimbursement,Reimbursement,868,Tara'S Debt Paidback
+2025-05-24,Saturday,Utilities & Bills,Vpn,330,Vpn For Guys
+2025-05-24,Saturday,Other,Other,82,?
+2025-05-25,Sunday,Reimbursement,Reimbursement,60,Asal Vpn Paidback
+2025-05-25,Sunday,Myself,Gym,1500,Gym
+2025-05-26,Monday,Groceries,Fruits & Veggies,30,Fruits
+2025-05-26,Monday,Groceries,Fruits & Veggies,109,Fruits
+2025-05-26,Monday,Groceries,Fruits & Veggies,125,Fruits
+2025-05-26,Monday,Groceries,Fruits & Veggies,38,Fruits
+2025-05-26,Monday,Groceries,Fruits & Veggies,50,Fruits
+2025-05-26,Monday,Groceries,Fruits & Veggies,40,Fruits
+2025-05-26,Monday,Groceries,Fruits & Veggies,34,Fruits
+2025-05-28,Wednesday,Groceries,Supermarket,74,Naan Land
+2025-05-28,Wednesday,Groceries,Supermarket,209,Supermarket
+2025-05-29,Thursday,Groceries,Supermarket,292,Naan Land
+2025-05-30,Friday,Utilities & Bills,Internet / Mobile Data,53,Irancell Data
+2025-05-30,Friday,Shopping,Clothes,866,Dress From Zhikan
+2025-06-01,Sunday,Gifts/Donations,Family/Friends,250,Sara Birthday Gift
+2025-06-01,Sunday,Utilities & Bills,Internet / Mobile Data,129,Irancell Home
+2025-06-02,Monday,Income,Profit,48,Income Profit
+2025-06-02,Monday,Utilities & Bills,Internet / Mobile Data,97,Irancell Bill
+2025-06-02,Monday,Shopping,Others,88,Brecelate
+2025-06-03,Tuesday,Food & Drink,Cafe / Coffee,340,Café With Nazanin
+2025-06-06,Friday,Food & Drink,Cafe / Coffee,440,Debt To Atefeh
+2025-06-07,Saturday,Other,Other,30,?
+2025-06-08,Sunday,Groceries,Supermarket,60,Supermarket
+2025-06-08,Sunday,Shopping,Clothes,60,Zhikan
+2025-06-09,Monday,Groceries,Fruits & Veggies,110,Fruits
+2025-06-09,Monday,Groceries,Fruits & Veggies,50,Fruits
+2025-06-09,Monday,Groceries,Fruits & Veggies,60,Fruits
+2025-06-09,Monday,Groceries,Fruits & Veggies,34,Fruits
+2025-06-09,Monday,Groceries,Fruits & Veggies,113,Fruits
+2025-06-09,Monday,Groceries,Fruits & Veggies,270,Fruits
+2025-06-09,Monday,Groceries,Fruits & Veggies,35,Fruits
+2025-06-10,Tuesday,Food & Drink,Cafe / Coffee,165,Café Bakeroom With Mobina
+2025-06-11,Wednesday,Income,Income,4800,Income Amo Mor
+2025-06-11,Wednesday,Transport,Snapp,42,Snapp
+2025-06-12,Thursday,Income,Income,4700,Income Amo Mos
+2025-06-12,Thursday,Transport,Snapp,72,Snapp
+2025-06-12,Thursday,Gifts/Donations,Family/Friends,1186,Gift For Noora Nika
+2025-06-12,Thursday,Groceries,Supermarket,102,Supermarket
+2025-06-13,Friday,Other,Other,159,?
+2025-06-13,Friday,Other,Other,191,?
+2025-06-15,Sunday,Other,Other,36,Visit For Unclewife
+2025-06-15,Sunday,Income,Yaraneh,400,Income Yaraneh
+2025-06-15,Sunday,Food & Drink,Cafe / Coffee,306,Café Overduck With Tara
+2025-06-16,Monday,Groceries,Fruits & Veggies,100,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,200,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,38,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,57,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,72,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,120,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,66,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,100,Fruits
+2025-06-16,Monday,Groceries,Fruits & Veggies,250,Fruits
+2025-06-17,Tuesday,Food & Drink,Cafe / Coffee,551,Food With Agrin
+2025-06-24,Tuesday,Transport,Snapp,38,Snapp
+2025-06-24,Tuesday,Food & Drink,Cafe / Coffee,554,Food With Agrin
+2025-06-26,Thursday,Shopping,Clothes,860,Zhikan
+2025-06-28,Saturday,Transport,Snapp,53,Snapp
+2025-06-28,Saturday,Myself,Nails,750,Gelish
+2025-06-29,Sunday,Food & Drink,Cafe / Coffee,580,Café Samt With Tara
+2025-06-29,Sunday,Food & Drink,Cafe / Coffee,319,Café Coffice With Tara
+2025-06-30,Monday,Groceries,Fruits & Veggies,36,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,79,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,30,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,115,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,110,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,223,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,156,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,115,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,634,Fruits
+2025-06-30,Monday,Groceries,Fruits & Veggies,286,Fruits
+2025-07-01,Tuesday,Shopping,Others,155,Necklace
+2025-07-01,Tuesday,Utilities & Bills,Internet / Mobile Data,149,Irancell Home
+2025-07-02,Wednesday,Reimbursement,Reimbursement,570,Agrin Debt Paidback
+2025-07-03,Thursday,Utilities & Bills,Internet / Mobile Data,58,Irancell Data
+2025-07-03,Thursday,Myself,Gym,1800,Gym
+2025-07-06,Sunday,Utilities & Bills,Internet / Mobile Data,53,Irancell Data
+2025-07-07,Monday,Food & Drink,Cafe / Coffee,273,Café Konj With Viana
+2025-07-07,Monday,Groceries,Supermarket,46,Naan Land
+2025-07-07,Monday,Groceries,Supermarket,122,Supermarket
+2025-07-08,Tuesday,Shopping,Clothes,264,Cloth Shaal
+2025-07-09,Wednesday,Food & Drink,Cafe / Coffee,621,Café Coffice With Asal
+2025-07-09,Wednesday,Reimbursement,Reimbursement,400,Asal Share Paidback
+2025-07-11,Friday,Food & Drink,Cake,452,Cake For Amos Birthday
+2025-07-12,Saturday,Income,Income,4800,Income Amo Mos
+2025-07-12,Saturday,Income,Income,4700,Income Amo Mor
+2025-07-12,Saturday,Other,Other,1393,Skincare For Mom
+2025-07-12,Saturday,Shopping,Digikala,155,Digikala
+2025-07-13,Sunday,Groceries,Supermarket,60,Supermarket
+2025-07-13,Sunday,Groceries,Supermarket,122,Naan Land
+2025-07-14,Monday,Groceries,Fruits & Veggies,50,Fruits
+2025-07-14,Monday,Groceries,Fruits & Veggies,92,Fruits
+2025-07-14,Monday,Groceries,Fruits & Veggies,155,Fruits
+2025-07-14,Monday,Groceries,Fruits & Veggies,436,Fruits
+2025-07-14,Monday,Groceries,Fruits & Veggies,96,Fruits
+2025-07-14,Monday,Groceries,Fruits & Veggies,123,Fruits
+2025-07-15,Tuesday,Utilities & Bills,Internet / Mobile Data,95,Irancell Home
+2025-07-15,Tuesday,Food & Drink,Cafe / Coffee,584,Café Bakeroom With Atefeh
+2025-07-15,Tuesday,Reimbursement,Reimbursement,285,Atefeh Share Paidback
+2025-07-16,Wednesday,Groceries,Supermarket,78,Supermarket
+2025-07-16,Wednesday,Food & Drink,Cafe / Coffee,745,Snappfood
+2025-07-17,Thursday,Reimbursement,Reimbursement,375,Asal Paidback
+2025-07-17,Thursday,Income,Yaraneh,400,Income Yaraneh
+2025-07-18,Friday,Other,Other,346,?
+2025-07-19,Saturday,Food & Drink,Cafe / Coffee,181,Debt To Nazanin
+2025-07-19,Saturday,Other,Other,106,?
+2025-07-19,Saturday,Other,Other,65,?
+2025-07-21,Monday,Groceries,Fruits & Veggies,169,Fruits
+2025-07-21,Monday,Groceries,Fruits & Veggies,105,Fruits
+2025-07-21,Monday,Groceries,Fruits & Veggies,60,Fruits
+2025-07-21,Monday,Groceries,Fruits & Veggies,73,Fruits
+2025-07-21,Monday,Groceries,Fruits & Veggies,98,Fruits
+2025-07-21,Monday,Groceries,Fruits & Veggies,75,Fruits
+2025-07-21,Monday,Food & Drink,Cafe / Coffee,106,Café With Viana
+2025-07-23,Wednesday,Utilities & Bills,Internet / Mobile Data,53,Irancell Data
+2025-07-23,Wednesday,Food & Drink,Cafe / Coffee,248,Snappfood
+2025-07-25,Friday,Shopping,Clothes,1919,Cloth Zhikan
+2025-07-26,Saturday,Shopping,Clothes,250,Cloth Zhikan
+2025-07-26,Saturday,Shopping,Clothes,95,Cloth Zhikan
+2025-07-27,Sunday,Food & Drink,Cafe / Coffee,502,Snappfood
+2025-07-30,Wednesday,Utilities & Bills,Internet / Mobile Data,67,Irancell Data
+2025-07-30,Wednesday,Health,Hospital Costs,90,Hospital
+2025-07-30,Wednesday,Food & Drink,Cafe / Coffee,363,Food Burger Hamoon
+2025-07-30,Wednesday,Groceries,Fruits & Veggies,170,Bannana
+2025-07-30,Wednesday,Health,Hospital Costs,86,Hospital Stuff
+2025-07-31,Thursday,Health,Hospital Costs,32,Water For Hospital
+2025-08-02,Saturday,Groceries,Supermarket,364,Supermarket
+2025-08-03,Sunday,Income,Profit,57,Income Profit
+2025-08-05,Tuesday,Myself,Nails,425,Gelish
+2025-08-06,Wednesday,Food & Drink,Cafe / Coffee,349,Debt To Navid For Café
+2025-08-06,Wednesday,Food & Drink,Cafe / Coffee,356,Debt To Tara For Bakeroom
+2025-08-06,Wednesday,Groceries,Supermarket,73,Naan Land
+2025-08-06,Wednesday,Groceries,Supermarket,265,Supermarket
+2025-08-06,Wednesday,Other,Other,60,?
+2025-08-07,Thursday,Groceries,Fruits & Veggies,194,Fruits
+2025-08-07,Thursday,Groceries,Supermarket,251,Supermarket
+2025-08-07,Thursday,Groceries,Protein,2300,Meat
+2025-08-09,Saturday,Utilities & Bills,Internet / Mobile Data,60,Irancell Data
+2025-08-11,Monday,Groceries,Fruits & Veggies,109,Fruits
+2025-08-11,Monday,Groceries,Fruits & Veggies,50,Fruits
+2025-08-11,Monday,Groceries,Fruits & Veggies,95,Fruits
+2025-08-11,Monday,Groceries,Fruits & Veggies,100,Fruits
+2025-08-12,Tuesday,Myself,Gym,1200,Gym
+2025-08-13,Wednesday,Utilities & Bills,Internet / Mobile Data,95,Irancell Home
+2025-08-15,Friday,Income,Income,4800,Income Amo Mor
+2025-08-16,Saturday,Other,Other,36,Visit For Unclewife
+2025-08-16,Saturday,Myself,Snacks,110,Sm
+2025-08-16,Saturday,Income,Yaraneh,400,Income Yaraneh
+2025-08-16,Saturday,Food & Drink,Cafe / Coffee,443,Café Konj With Poopak
+2025-08-16,Saturday,Groceries,Supermarket,110,Naan Land
+2025-08-16,Saturday,Groceries,Supermarket,157,Supermarket
+2025-08-18,Monday,Groceries,Fruits & Veggies,160,Fruits
+2025-08-18,Monday,Groceries,Fruits & Veggies,115,Fruits
+2025-08-18,Monday,Groceries,Fruits & Veggies,122,Fruits
+2025-08-18,Monday,Groceries,Fruits & Veggies,145,Fruits
+2025-08-18,Monday,Food & Drink,Cafe / Coffee,48,Café Matcha With Viana
+2025-08-18,Monday,Groceries,Supermarket,230,Snapmarket
+2025-08-19,Tuesday,Income,Income,4700,Income Amo Mos
+2025-08-21,Thursday,Other,Other,446,Shirini For Nazanin
+2025-08-21,Thursday,Myself,Snacks,140,Sm
+2025-08-21,Thursday,Food & Drink,Cafe / Coffee,150,Cafe Samt With Poopak
+2025-08-22,Friday,Utilities & Bills,Internet / Mobile Data,41,Irancell Data
+2025-08-22,Friday,Income,Reimbursements,7000,Parents
+2025-08-23,Saturday,Utilities & Bills,Internet / Mobile Data,36,Irancell Home
+2025-08-23,Saturday,Reimbursement,Reimbursement,223,Mobina'S Share Paidback
+2025-08-23,Saturday,Food & Drink,Cake,373,Cake For Mama
+2025-08-23,Saturday,Groceries,Supermarket,182,Supermarket
+2025-08-23,Saturday,Food & Drink,Cafe / Coffee,475,Pizza With Atefeh
+2025-08-24,Sunday,Groceries,Supermarket,2900,Ghedmat
+2025-08-24,Sunday,Transport,Ride-Hailing,41,Tehran Freeway
+2025-08-24,Sunday,Transport,Fuel / Gas,60,Gas
+2025-08-24,Sunday,Utilities & Bills,Internet / Mobile Data,60,Irancell Home
